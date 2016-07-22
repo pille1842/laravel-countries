@@ -1,24 +1,20 @@
 {
-	"name" : "webpatser/laravel-countries",
-	"description" : "Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.",
+	"name" : "pille1842/laravel-countries-de",
+	"description" : "Laravel-Countries-DE is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries in German language.",
 	"type" : "laravel-library",
 	"authors" : [{
-			"name" : "Christoph Kempen",
-			"email" : "christoph@downsized.nl",
-			"homepage" : "http://downsized.nl/",
-			"role" : "developer"
-		}, {
-			"name" : "Paul Kievits",
-			"role" : "developer"
-		}
-	],
+		"name" : "Eric Haberstroh",
+		"email" : "eric@erixpage.de",
+		"homepage" : "http://www.erixpage.de/",
+		"role" : "developer"
+	}],
 	"keywords" : [
 		"laravel",
 		"countries",
 		"iso_3166_2",
 		"iso_3166_3"
 	],
-	"homepage" : "https://github.com/webpatser/laravel-countries",
+	"homepage" : "https://github.com/pille1842/laravel-countries-de",
 	"license" : [
 		"MIT"
 	],
@@ -27,7 +23,7 @@
 	},
 	"autoload" : {
 		"psr-0" : {
-			"Webpatser\\Countries" : "src/"
+			"Pille1842\\Countries" : "src/"
 		},
 		"classmap" : [
 			"src/commands"
@@ -35,7 +31,7 @@
 	},
 	"minimum-stability" : "dev",
 	"support" : {
-		"source" : "https://github.com/webpatser/laravel-countries",
-		"issues" : "https://github.com/webpatser/laravel-countries/issues"
+		"source" : "https://github.com/pille1842/laravel-countries-de",
+		"issues" : "https://github.com/pille1842/laravel-countries-de/issues"
 	}
 }
