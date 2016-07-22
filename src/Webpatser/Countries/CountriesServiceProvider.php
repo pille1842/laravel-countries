@@ -1,6 +1,6 @@
 <?php
 
-namespace Webpatser\Countries;
+namespace Pille1842\Countries;
 
 use Illuminate\Support\ServiceProvider;
 
