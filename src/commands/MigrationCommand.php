@@ -1,5 +1,5 @@
 <?php 
-namespace Webpatser\Countries;
+namespace Pille1842\Countries;
 
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputOption;
